@@ -1,0 +1,168 @@
+/* profile.css */
+
+.student-profile-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.profile-sidebar {
+  flex: 1 1 250px;
+  background-color: #3c4652;
+  color: #fff;
+  padding: 25px;
+  text-align: center;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 20px;
+}
+
+.profile-sidebar h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.profile-sidebar p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.info-item {
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.info-label {
+  font-weight: bold;
+  color: #ecf0f1;
+  margin-right: 5px;
+}
+
+.info-value {
+  color: #d1d1d1;
+}
+
+.profile-main {
+  flex: 3 1 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.profile-card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card h3 {
+  color: #34495e;
+  margin-bottom: 20px;
+  font-size: 1.3rem;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 10px;
+}
+
+.courses-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+}
+
+.courses-list li {
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.passed-course {
+  background-color: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #2e7d32;
+}
+
+.failed-course {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #c62828;
+}
+
+.no-data {
+  text-align: center;
+  color: #7f8c8d;
+}
+
+.course-name {
+  font-weight: bold;
+}
+
+.course-grade,
+.course-status {
+  margin-top: 5px;
+}
+
+.profile-actions {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background-color 0.3s ease;
+}
+
+.btn-edit-profile {
+  background-color: #3a77a0;
+  color: #fff;
+}
+
+.btn-edit-profile:hover {
+  background-color: #2c5d8a;
+}
+
+.btn-exit {
+  background-color: #b03326;
+  color: #fff;
+}
+
+.btn-exit:hover {
+  background-color: #c0392b;
+}
+
+.error-message {
+  color: #e74c3c;
+  margin-top: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.loading {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #34495e;
+}
