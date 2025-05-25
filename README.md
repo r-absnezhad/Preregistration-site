@@ -20,7 +20,7 @@ cd Backend
 pip install -r requirements.txt
 python manage.py runserver
 
-### Backend Setup
+### Frontend Setup
 ```bash
 cd Frontend
 npm install
