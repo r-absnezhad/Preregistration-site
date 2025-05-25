@@ -40,6 +40,5 @@ npm start
 <p align="center"><em>image 2: This is the screen of the pre-registration page of site.</em></p>
 
 ## Demo Video
-[Watch the demo video on YouTube](https://youtu.be/yourvideoID)  
+[Watch the demo video](https://drive.google.com/file/d/1uTvKyLB7Yw1dRLs0ICasj1zUr4C9A6X9/view?usp=sharing)  
 *This video shows the main features of the application.*
-[![Watch the demo](https://img.youtube.com/vi/yourvideoID/0.jpg)](https://youtu.be/yourvideoID)
