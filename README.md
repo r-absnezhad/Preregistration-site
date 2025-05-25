@@ -34,6 +34,6 @@ npm start
 
 ## Screenshots
 ![Main Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/MainPage.JPG)
-*image 1: This is the main screen of the app showing user dashboard.*
+*image 1: This is the main screen of the site.*
 ![Pre-registration Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/Pre-registrationPage.JPG)
-*image 2: This is the main screen of the app showing user dashboard.*
+*image 2: This is the screen of the pre-registration page of site.*
