@@ -35,6 +35,6 @@ npm start
 ## Screenshots
 ![Main Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/MainPage.JPG)
 <p align="center"><em>image 1: This is the main screen of the site.</em></p>
-<p> </p>
+
 ![Pre-registration Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/Pre-registrationPage.JPG)
 <p align="center"><em>image 2: This is the screen of the pre-registration page of site.</em></p>
