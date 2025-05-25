@@ -41,4 +41,4 @@ npm start
 
 ## Demo Video
 [Watch the demo video](https://drive.google.com/file/d/1uTvKyLB7Yw1dRLs0ICasj1zUr4C9A6X9/view?usp=sharing)  
-*This video shows the main features of the application.*
+*This video shows the main features of the website.*
