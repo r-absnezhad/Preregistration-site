@@ -9,10 +9,11 @@ This project is a web-based system developed for undergraduate thesis purposes. 
 - Modern UI with responsive design
 
 ## Technologies
-- Django
-- React
-- Bootstrap
-- SQLite3
+- **Backend:** Python, Django, Django REST Framework  
+- **Frontend:** React.js, JavaScript, Bootstrap  
+- **Database:** SQLite3  
+- **Tools & Utilities:** Git, Visual Studio Code, Postman (for API testing)
+
 
 ## Developer
 Reihane Abbasnezhad Sarab — Computer Engineering Student  
