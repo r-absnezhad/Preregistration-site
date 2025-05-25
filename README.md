@@ -34,3 +34,4 @@ npm start
 
 ## Screenshots
 ![Main Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/MainPage.JPG)
+![Pre-registration Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/Pre-registrationPage.JPG)
