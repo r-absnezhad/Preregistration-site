@@ -28,5 +28,5 @@ npm start
 
 
 ## Developer
-Reihane Abbasnezhad Sarab — Computer Engineering Student  
-Pouya Ruzbeh Tehrani — Computer Engineering Student  
+- Reihane Abbasnezhad Sarab — Computer Engineering Student  
+- Pouya Ruzbeh Tehrani — Computer Engineering Student  
