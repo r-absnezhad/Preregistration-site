@@ -14,13 +14,13 @@ This project is a web-based system developed for undergraduate thesis purposes. 
 - **Database:** SQLite3  
 - **Tools & Utilities:** Git, Visual Studio Code, Postman (for API testing)
 
-### Backend Setup
+## Backend Setup
 ```bash
 cd Backend
 pip install -r requirements.txt
 python manage.py runserver
 
-### Frontend Setup
+## Frontend Setup
 ```bash
 cd Frontend
 npm install
