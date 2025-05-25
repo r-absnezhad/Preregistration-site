@@ -26,8 +26,7 @@ cd ../Frontend
 npm install
 npm start
 
-
-
+```
 
 ## Developers
 - Reihane Abbasnezhad Sarab — Computer Engineering Student  
