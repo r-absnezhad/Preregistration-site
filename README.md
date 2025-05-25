@@ -14,6 +14,17 @@ This project is a web-based system developed for undergraduate thesis purposes. 
 - **Database:** SQLite3  
 - **Tools & Utilities:** Git, Visual Studio Code, Postman (for API testing)
 
+### Backend Setup
+```bash
+cd Backend
+pip install -r requirements.txt
+python manage.py runserver
+
+### Backend Setup
+```bash
+cd Frontend
+npm install
+npm start
 
 ## Developer
 Reihane Abbasnezhad Sarab — Computer Engineering Student  
