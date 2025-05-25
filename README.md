@@ -30,4 +30,6 @@ npm start
 
 ## Developers
 - Reihane Abbasnezhad Sarab — Computer Engineering Student  
-- Pouya Ruzbeh Tehrani — Computer Engineering Student  
+- Pouya Ruzbeh Tehrani — Computer Engineering Student
+
+![Description of image](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/MainPage.JPG)
