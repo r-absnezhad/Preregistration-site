@@ -28,9 +28,10 @@ npm start
 
 ```
 
-## Developers
-- Reihane Abbasnezhad Sarab — Computer Engineering Student  
-- Pouya Ruzbeh Tehrani — Computer Engineering Student
+## Demo Video
+[Watch the demo video](https://drive.google.com/file/d/1uTvKyLB7Yw1dRLs0ICasj1zUr4C9A6X9/view?usp=sharing)  
+*This video shows the main features of the website.*
+
 
 ## Screenshots
 ![Main Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/MainPage.JPG)
@@ -39,6 +40,6 @@ npm start
 ![Pre-registration Page of site](https://github.com/r-absnezhad/Preregistration-site/blob/main/images/Pre-registrationPage.JPG)
 <p align="center"><em>image 2: This is the screen of the pre-registration page of site.</em></p>
 
-## Demo Video
-[Watch the demo video](https://drive.google.com/file/d/1uTvKyLB7Yw1dRLs0ICasj1zUr4C9A6X9/view?usp=sharing)  
-*This video shows the main features of the website.*
+## Developers
+- Reihane Abbasnezhad Sarab — Computer Engineering Student  
+- Pouya Ruzbeh Tehrani — Computer Engineering Student
